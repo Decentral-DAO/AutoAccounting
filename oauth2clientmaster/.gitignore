@@ -1,0 +1,17 @@
+# Build artifacts
+*.py[cod]
+oauth2client.egg-info/
+build/
+dist/
+
+# Documentation-related
+docs/_build
+/google_appengine/
+
+# Test files
+.tox/
+
+# Coverage files
+.coverage
+coverage.xml
+nosetests.xml
